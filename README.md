@@ -49,6 +49,38 @@ I bring both technical expertise and a strong understanding of business requirem
 
 ---
 
+## 📊 Business Intelligence & Analytics Expertise
+
+### MicroStrategy
+- Enterprise data modeling and semantic layer design
+- Metrics, advanced calculations, and transformations
+- Reports, Dossiers, and analytical applications
+- Platform configuration and administration
+
+### Microsoft Power BI
+- Dataflows and data transformation
+- Interactive dashboards and reports
+- Power Query and data preparation
+- Advanced DAX measures and calculations
+- Data modeling and platform configuration
+
+### Tableau
+- Tableau Prep and data preparation workflows
+- Dataset creation and management
+- Interactive dashboards and visualizations
+- Analytical reporting
+- Tableau platform configuration
+
+### Enterprise BI Architecture & Modernization
+- BI solution architecture and technical design
+- Enterprise reporting and analytics
+- Data migration and platform modernization
+- SQL performance optimization
+- Data integration and quality validation
+
+---
+
+
 ## 💼 Industry Experience
 
 My professional experience includes data and analytics initiatives in:
