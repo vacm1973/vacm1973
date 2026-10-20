@@ -1,6 +1,8 @@
 # Hi, I'm Victor Andres 👋
 
-### Senior Data Engineer | Data Architecture | Business Intelligence
+### Senior Data Engineer | Data Architect | BI Specialist
+
+**MicroStrategy | Power BI | Tableau | SQL | Cloud Data Platforms**
 
 📍 Buenos Aires, Argentina (GMT-3)  
 🌎 Open to 100% Remote International Opportunities
