@@ -117,6 +117,12 @@ A local Spark implementation of Bronze, Silver, and Gold data layers, designed t
 
 A dimensional Data Warehouse featuring analytical SQL, window functions, data integrity checks, and automated PostgreSQL testing with GitHub Actions.
 
+### 🗄️ [Power BI](https://github.com/vacm1973/powerbi-portfolio)
+
+**Power BI | DAX | Dimensional Modeling | Row Level Security (RLS)**
+
+A Business Intelligence solution featuring advanced DAX time intelligence, star-schema dimensional modeling, dynamic Row-Level Security (RLS), and automated ETL pipelines with SQL and Power Query
+
 ---
 
 ## 🎯 Professional Interests
