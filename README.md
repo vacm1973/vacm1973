@@ -125,6 +125,14 @@ A Business Intelligence solution featuring advanced DAX time intelligence, star-
 
 ---
 
+### 🗄️ [Tableau](https://github.com/vacm1973/tableau-portfolio)
+
+**Tableau | Tableau Prep | Datasets Unions | Data Quality Audits | CLI Automation**
+
+An automated enterprise ETL preparation workflow featuring multi-source dataset unions, string and schema normalization, custom data quality audit flags, and command-line execution (CLI).
+
+---
+
 ## 🎯 Professional Interests
 
 I am interested in international remote opportunities involving:
